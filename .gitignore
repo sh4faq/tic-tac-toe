@@ -1,0 +1,7 @@
+node_modules
+dist
+build
+# Vite/CRA dev servers & misc
+*.log
+.DS_Store
+.env*
